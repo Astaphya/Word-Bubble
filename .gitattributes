@@ -1,0 +1,5 @@
+*.apk filter=lfs diff=lfs merge=lfs -text
+*.sbsar filter=lfs diff=lfs merge=lfs -text
+*.unity filter=lfs diff=lfs merge=lfs -text
+*.assets filter=lfs diff=lfs merge=lfs -text
+*.library filter=lfs diff=lfs merge=lfs -text

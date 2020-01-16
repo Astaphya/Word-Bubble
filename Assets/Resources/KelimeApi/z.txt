@@ -1,0 +1,811 @@
++zaaf+
++zabit+ -pti+
++zabita+
++zabitname+
++zabit varakasi+
++zabit+
++zabitan+
++zabitlik+ -gi+
++za�+ -ci+
++za� yagi+
++zade+
++zadeg�n+
++zadeg�nlik+ -gi+
++zafer+
++zafer Bayrami+
++zafiyet+
++zafran+
++zag+
++zaganos+
++zagar+
++zagara+
++zagarci+
++zagarlik+ -gi+
++zagci+
++zagcilik+ -gi+
++zaglama+
++zaglamak+
++zagli+
++zagsiz+
++zahir+
++zah�r+
++zahirde+
++zahire+
++zahiren+
++zahir�+
++zahit+
++zahitlik+ -gi+
++zahmet+
++zahmetli+
++zahmetlilik+ -gi+
++zahmetsiz+
++zahmetsizce+
++zahmetsizlik+ -gi+
++zahter+
++zail+
++zait+ -di+
++zakkum+
++zakkumgiller+
++zakkumlasma+
++zakkumlasmak+
++zakkumlu+
++zalim+
++zalimane+
++zalimce+
++zalimcesine+
++zalimlik+ -gi+
++zam+ -mmi+
++zaman+
++zaman asimi+
++zaman ayarli+
++zaman belirteci+
++zaman bilimi+
++zaman bilimsel+
++zaman birimi+
++zamandas+
++zamandaslik+ -gi+
++zaman dizini+
++zamane+
++zamane adami+
++zamane �ocugu+
++zaman eki+
++zamaninda+
++zamanla+
++zamanlama+
++zamanlamak+
++zamanlayabilme+
++zamanlayabilmek+
++zamanli+
++zamanli zamansiz+
++zamansiz+
++zamansizlik+ -gi+
++zaman tuneli+
++zaman zaman+
++zaman zarfi+
++zamazingo+
++zambak+ -gi+
++zambakgiller+
++zambir+
++zambiyali+
++zamir+
++zamk+
++zamk agaci+
++zamk akasyasi+
++zamk hastaligi+
++zamkiarabi+
++zamkinos+
++zamklama+
++zamklamak+
++zamklanma+
++zamklanmak+
++zamkli+
++zamkli k�git+ -di+
++zamlanma+
++zamlanmak+
++zamli+
++zamme+
++zammetme+
++zammetmek+ -der+
++zam paketi+
++zampara+
++zamparalik+ -gi+
++zamsiz+
++zamsizlik+ -gi+
++zan+ -nni+
++zanaat+
++zanaat�i+
++zanaat�ilik+ -gi+
++zanaatk�r+
++zanaatk�rlik+ -gi+
++zangirdama+
++zangirdamak+
++zangirdatma+
++zangirdatmak+
++zangirti+
++zangir zangir+
++zango�+ -cu+
++zango�luk+ -gu+
++zanka+
++zanli+
++zanlilik+ -gi+
++zannedilme+
++zannedilmek+
++zannedis+
++zannetme+
++zannetmek+ -der+
++zanneyleme+
++zanneylemek+
++zannolunma+
++zannolunmak+
++zapt+
++zaptiye+
++zaptiye memuru+
++zapturapt+
++zar+
++zara+
++zarafet+
++zarafetli+
++zarar+
++zararina+
++zararli+
++zararlikiran+
++zararlilar+
++zararlilik+ -gi+
++zararsiz+
++zararsizca+
++zararsizlik+ -gi+
++zarci+
++zarf+
++zarf�i+
++zarf�ilik+ -gi+
++zarf-fiil+
++zarf-fiil grubu+
++zarfinda+
++zarflama+
++zarflamak+
++zarflanma+
++zarflanmak+
++zarfli+
++zarfsiz+
++zarf tumleci+
++zargana+
++zarilanma+
++zarilanmak+
++zarimsi+
++zarif+
++zarifane+
++zarif�e+
++zariflik+ -gi+
++zari zari+
++zar kanatlilar+
++zarsi+
++zarta+
++zart zurt+
++zaruret+
++zaruri+
++zarurilik+ -gi+
++zar zor+
++zat+
++zata mahsus+
++zaten+
++zatialileri+
++zatialiniz+
++zati+
++zat� (kisiye ozgu)+
++zat isleri+
++zatulcenp+ -bi+
++zatulkursi+
++zaturre+
++zavalli+
++zavallilik+ -gi+
++zaviye+
++zaviyevi+
++zayif+
++zayiflama+
++zayiflamak+
++zayiflatabilme+
++zayiflatabilmek+
++zayiflatma+
++zayiflatmak+
++zayiflayabilme+
++zayiflayabilmek+
++zayiflayis+
++zayiflik+ -gi+
++zayif nahif+
++zayif sesli+
++zayi+
++zayiat+
++zayi�e+
++zaza+
++zazaca+
++ze+
++zeamet+
++zeban+
++zebani+
++zebella+
++zebercet+ -di+
++zebra+
++zebun+
++zebunkus+
++zebunkusluk+ -gu+
++zebunlasma+
++zebunlasmak+
++zebunluk+ -gu+
++zebur+
++zecir+ -cri+
++zecren+
++zecr�+
++zedeleme+
++zedelemek+
++zedelenis+
++zedelenme+
++zedelenmek+
++zedeleyebilme+
++zedeleyebilmek+
++zedeli+
++zedesiz+
++zefir+
++zehap+ -bi+
++zehir+ -hri+
++zehir hafiye+
++zehirleme+
++zehirlemek+
++zehirlenis+
++zehirlenme+
++zehirlenmek+
++zehirletme+
++zehirletmek+
++zehirli+
++zehirli gaz+
++zehirlilik+ -gi+
++zehirsiz+
++zehirsizlik+ -gi+
++zehir zemberek+ -gi+
++zehir zikkim+
++zehretme+
++zehretmek+ -der+
++zehrolma+
++zehrolmak+
++zek�+
++zek� bolumu+
++zek� geriligi+
++zek�li+
++zek�lilik+ -gi+
++zek�siz+
++zek�sizlik+ -gi+
++zek�t+
++zek� testi+
++zek�t ke�isi+
++zek�vet+
++zek� yasi+
++zek� yetenegi+
++zeker+
++zekeriya sofrasi+
++zeki+
++zekice+
++zekilik+ -gi+
++zelber+
++zelil+
++zelve+
++zelzele+
++zem+ -mmi+
++zemberek+ -gi+
++zemberek�i+
++zemberek kutusu+
++zemberekli+
++zemberek otu+
++zembil+
++zembil otu+
++zemheri+
++zemheri zurefasi+
++zemin+
++zemin kati+
++zeminli+
++zeminlik+ -gi+
++zemmetme+
++zemmetmek+ -der+
++zemzem+
++zemzem suyu+
++zen+
++zencefil+
++zencefilgiller+
++zenci+
++zencirek+ -gi+
++zendost+
++zendostluk+ -gu+
++zengin+
++zengin ekmek+ -gi+
++zengin erki+
++zengin kafiye+
++zenginleme+
++zenginlemek+
++zenginlenme+
++zenginlenmek+
++zenginlesme+
++zenginlesmek+
++zenginlestirme+
++zenginlestirmek+
++zenginlik+ -gi+
++zenne+
++zenneci+
++zennelik+ -gi+
++zephiye+
++zeplin+
++zer+
++zeravent+ -di+
++zerdali+
++zerde+
++zerde�al+
++zerdeva+
++zerdust�u+
++zerdust�uluk+ -gu+
++zerk+
++zerre+
++zerrece+
++zerrin+
++zerzevat+
++zerzevat�i+
++zerzevat�ilik+ -gi+
++zevahir+
++zeval+ -li+
++zeval�+
++zeval� saat+ -ti+
++zevalsiz+
++zevalsizlik+ -gi+
++zeval vakti+
++zevat+
++zevce+
++zevcelik+ -gi+
++zev�+ -ci+
++zeveban+
++zevk+
++zevk�e+
++zevk ehli+
++zevkiselim+
++zevklendirme+
++zevklendirmek+
++zevklenme+
++zevklenmek+
++zevkli+
++zevklilik+ -gi+
++zevksiz+
++zevksizlik+ -gi+
++zevkusefa+
++zevzek+
++zevzek�e+
++zevzeklenme+
++zevzeklenmek+
++zevzeklik+ -gi+
++zeybek+ -gi+
++zeybek havasi+
++zeyil+ -yli+
++zeyilname+
++zeyrek+
++zeyrek+ -gi (keten tohumu)+
++zeyreklik+ -gi+
++zeytin+
++zeytinburnu+
++zeytinci+
++zeytincilik+ -gi+
++zeytin dali+
++zeytin ezmesi+
++zeytingiller+
++zeytin guvesi+
++zeytinimsi+
++zeytin kurdu+
++zeytinli+
++zeytinlik+ -gi+
++zeytin rengi+
++zeytinsi+
++zeytinsi meyve+
++zeytin sinegi+
++zeytinsiz+
++zeytinyagi+
++zeytinyagli+
+++
++ +
++zeytinyagli dolma+
++zeytinyagli sarma+
++zeytuni+
++zibaris+
++zibarma+
++zibarmak+
++zibartma+
++zibartmak+
++zibin+
++ziddiyet+
++zih+
++zihlama+
++zihlamak+
++zihlanma+
++zihlanmak+
++zihli+
++zihsiz+
++zikkim+
++zikkimin koku+
++zikkimlanma+
++zikkimlanmak+
++zilgit+
++zilgitlanma+
++zilgitlanmak+
++zimba+
++zimbalama+
++zimbalamak+
++zimbalanma+
++zimbalanmak+
++zimbalatma+
++zimbalatmak+
++zimbali+
++zimbali defter+
++zimbasiz+
++zimbirdatma+
++zimbirdatmak+
++zimbirti+
++zimnen+
++zimninda+
++zimni+
++zimpara+
++zimpara k�gidi+
++zimparalama+
++zimparalamak+
++zimparalanma+
++zimparalanmak+
++zimparamsi+
++zimpara tasi+
++zimpara tozu+
++zindik+
++zindiklik+ -gi+
++zingadak+
++zingildama+
++zingildamak+
++zingil zingil+
++zingirdama+
++zingirdamak+
++zingirdatma+
++zingirdatmak+
++zingirti+
++zingir zingir+
++zink+
++zip+
++zip�ikti+
++zip�iktilik+ -gi+
++zipir+
++zipirca+
++zipirlik+ -gi+
++zipka+
++zipkin+
++zipkinci+
++zipkincilik+ -gi+
++zipkinlama+
++zipkinlamak+
++zipkinlanma+
++zipkinlanmak+
++ziplama+
++ziplamak+
++ziplatma+
++ziplatmak+
++ziplayabilme+
++ziplayabilmek+
++ziplayis+
++zippadak+
++zipzip (bilye)+
++zip zip+
++zircahil+
++zircahillik+ -gi+
++zirdeli+
++zirdelilik+ -gi+
++zirh+
++zirhlandirma+
++zirhlandirmak+
++zirhlanma+
++zirhlanmak+
++zirhli+
++zirhli ara�+ -ci+
++zirhli balik+ -gi+
++zirhli baslilar+
++zirhli birlik+ -gi+
++zirhli gu�+ -cu+
++zirhli kuvvet+
++zirhli yayin+
++zirhsiz+
++zirildama+
++zirildamak+
++zirildanma+
++zirildanmak+
++zirilti+
++ziril ziril+
++zirlak+
++zirlama+
++zirlamak+
++zirlatma+
++zirlatmak+
++zirnik+ -gi+
++zirtapoz+
++zirtapozca+
++zirtapozluk+ -gu+
++zirt firt+
++zirtlak+
++zirt pirt+
++zirt zirt+
++zirva+
++zirvalama+
++zirvalamak+
++zir zir+
++zit+
++zit anlamli+
++zit anlamlilik+ -gi+
++zit kutup+
++zitlanma+
++zitlanmak+
++zitlasma+
++zitlasmak+
++zitlik+ -gi+
++zivana+
++zivanali+
++zivanali sigara+
++zivanali vida+
++zivanasiz+
++ziypak+
++zibidi+
++zibidilik+ -gi+
++zifaf+
++zifin+
++zifir+
++zifir�+
++zifir� karanlik+ -gi+
++zifos+
++zift+
++ziftleme+
++ziftlemek+
++ziftlenme+
++ziftlenmek+
++zigon+
++zigon sehpa+
++zigot+
++zihaf+
++zihayat+
++zihin+ -hni+
++zihin a�ikligi+
++zihin berrakligi+
++zihin bulanikligi+
++zihince+
++zihin hesabi+
++zihin jimnastigi+
++zihin karisikligi+
++zihinsel+
++zihin yorgunlugu+
++zihnen+
++zihn�+
++zihniye+
++zihniyet+
++zikiymet+
++zikir+ -kri+
++zikredebilme+
++zikredebilmek+
++zikredilis+
++zikredilme+
++zikredilmek+
++zikredis+
++zikretme+
++zikretmek+ -der+
++zikrolunma+
++zikrolunmak+
++zikzak+ -gi+
++zikzak dikisi+
++zikzakli+
++zikzak makinesi+
++zil+
++zile+
++zilhicce+
++zili+
++zilkade+
++zillet+
++zilli+
++zilli bebek+ -gi+
++zilli masa+
++zilsiz+
++zilyet+ -di+
++zilyetlik+ -gi+
++zilzurna+
++zimamdar+
++zimmet+
++zimmetleme+
++zimmetlemek+
++zimmetli+
++zimmi+
++zina+
++zincifre+
++zincir+
++zincirleme+
++zincirleme ad tamlamasi+
++zincirleme isim tamlamasi+
++zincirlemek+
++zincirleme kaza+
++zincirleme sifat tamlamasi+
++zincirleme tepkime+
++zincirlenme+
++zincirlenmek+
++zincirli+
++zindan+
++zindanci+
++zindancilik+ -gi+
++zindandelen+
++zinde+
++zinde kuvvet+
++zindelesme+
++zindelesmek+
++zindelestirme+
++zindelestirmek+
++zindelik+ -gi+
++zinhar+
++zir+
++zira+
++ziraat+
++ziraat�i+
++ziraat�ilik+ -gi+
++zirai+
++zirai isletme+
++zirkon+
++zirkonyum+
++zirve+
++zirve konferansi+
++zirve toplantisi+
++zirzop zirzop�a+
++zirzoplasma+
++zirzoplasmak+
++zirzopluk+ -gu+
++zivircik+ -gi+
++ziya+
++ziyadar+
++ziyade+
++ziyadelesme+
++ziyadelesmek+
++ziyadelestirme+
++ziyadelestirmek+
++ziyadesiyle+
++ziyafet+
++ziyali+
++ziyan+
++ziyank�r+
++ziyank�rlik+ -gi+
++ziyansiz+
++ziyaret+
++ziyaret�i+
++ziyaret�ilik+ -gi+
++ziyaretg�h+
++ziyaret yeri+
++ziyasiz+
++ziyasizlik+ -gi+
++ziynet+
++zloti+
++zn+
++zodyak+ -k�i+
++zoka+
++zom+
++zombi+
++zombilesme+
++zombilesmek+
++zombilik+ -gi+
++zona+
++zonguldak+ -k�i+
++zonguldakli+
++zonguldaklilik+ -gi+
++zonk+
++zonklama+
++zonklamak+
++zonklatma+
++zonklatmak+
++zoolog+ -gu+
++zooloji+
++zoolojik+
++zoospor+
++zootekni+
++zor+
++zoraki+
++zor alim+
++zorba+
++zorbaca+
++zorbalik+ -gi+
++zor bela+
++zorca+
++zorgu+
++zorgulu+
++zorla+
++zorlama+
++zorlamak+
++zorlamasiz+
++zorlanis+
++zorlanma+
++zorlanmak+
++zorlasma+
++zorlasmak+
++zorlastirma+
++zorlastirmak+
++zorlayici+
++zorlayicilik+ -gi+
++zorlayis+
++zorlu+
++zorluk+ -gu+
++zorlukla+
++zorsunma+
++zorsunmak+
++zorun+
++zorunlu+
++zorunlu emeklilik+ -gi+
++zorunluk+ -gu+
++zorunluluk+ -gu+
++zorunlu ogrenim+
++zorunlu sigorta+
++zoru zoruna+
++zr+
++zuhur+
++zuhurat+
++zuhuri+
++zuhuri kolu+
++zula+
++zuladan+
++zulmet+
++zulmetme+
++zulmetmek+ -der+
++zulum+ -lmu+
++zum+
++zumlama+
++zumlamak+
++zurna+
++zurnaci+
++zurnacilik+ -gi+
++zurnazen+
++zurnazenlik+ -gi+
++zubde+
++zuccaciye+
++zuccaciyeci+
++zuccaciyecilik+ gi+
++zugurt+
++zugurtleme+
++zugurtlemek+
++zugurtlesme+
++zugurtlesmek+
++zugurtluk+ -gu+
++zugurt tesellisi+
++zuhal+ -l�i+
++zuhre+
++zuhrevi hastalik+ -gi+
++zuhrevi hastalikli+
++zuht+ -du+
++zuhul+ -lu+
++zuk�m+
++zul+ -llu+
++zulal+ -li+
++zulfaris+
++zulfikar+
++zulfuy�r+
++zuluf+ -lfu+
++zuluflu+
++zumre+
++zumre edebiyati+
++zumre toplantisi+
++zumrudi+
++zumruduanka+
++zumrut+ -du+
++zumrutlenme+
++zumrutlenmek+
++zumrutsu+
++zumrut yesili+
++zuppe+
++zuppece+
++zuppelesme+
++zuppelesmek+
++zuppelestirme+
++zuppelestirmek+
++zuppelik+ -gi+
++zurafa+
++zurafagiller+
++zurefa+
++zurra+
++zurriyet+
++zurriyetli+
++zurriyetsiz+
++zurriyetsizlik+ -gi+
++zuyuf+
++zuyuf ak�e+
++

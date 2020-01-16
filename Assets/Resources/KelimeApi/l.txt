@@ -1,0 +1,847 @@
++la+
++la (kimyasal simge)+
++laakal+
++labada+
++labirent+
++laborant+
++laborantlik+ -gi+
++laboratuvar+
++laboratuvar muayenesi+
++labrador+
++labros+
++lacerem+
++laciverd�+
++laciverdimsi+
++lacivert+ -di+
++lacivertlik+ -gi+
++lacivert pasaport+
++laciverttas+
++la�in+
++l��in+
++la�ka+
++la�kalasma+
++la�kalasmak+
++la�kalik+ -gi+
++laden+
++ladengiller+
++ladenli+
++lades+
++lades kemigi+
++ladeslenme+
++ladeslenmek+
++ladesli+
++lades oyunu+
++l�dik+ -k�i+
++ladin+
++ladin�+
++ladino+
++laedri+
++laedriye+
++laf+
++lafazan+
++lafazanlik+ -gi+
++laf cambazi+
++laf cambazligi+
++laf�i+
++laf�ilik+ -gi+
++laf ebeligi+
++laf ebesi+
++lafiz+ -fzi+
++laf kalabaligi+
++laflama+
++laflamak+
++laforizma+
++laf salatasi+
++lafuguzaf+
++lafzen+
++lafzi+
++laga luga+
++lagar+
++lagun+
++lagim+
++lagimci+
++lagimcilik+ -gi+
++lagim �ukuru+
++lagim dosemi+
++lagim faresi+
++lagiv+ -gvi+
++lagvedilme+
++lagvedilmek+
++lagvetme+
++lagvetmek+ -der+
++lagvolma+
++lagvolmak+
++lagvolunma+
++lagvolunmak+
++lahana+
++lahanamsi+
++lahana sarmasi+
++lahavle+
++lahika+
++lahit+ -hdi+
++lahmacun+
++lahmacuncu+
++lahmacunculuk+ -gu+
++lahos+
++lahuraki+
++lahuri+
++lahut+
++lahuti+
++lahza+
++lahzada+
++laik+
++laiklesme+
++laiklesmek+
++laiklestirilme+
++laiklestirilmek+
++laiklestirme+
++laiklestirmek+
++laiklik+ -gi+
++lain+
++laisizm+
++lak+
++laka+
++lakaci+
++lakacilik+ -gi+
++lakap+ -bi+
++lakapli+
++lakaydi+
++lakayit+
++lakayitlik+ -gi+
++lak�i+
++lak�ilik+ -gi+
++lake+
++lakerda+
++lakerdaci+
++lakerdacilik+ -gi+
++lakirti+
++lakirtici+
++lakirti ebesi+
++lakirti kavafi+
++lakin+
++laklak+ -gi+
++laklaka+
++laklakiyat+
++laklama+
++laklamak+
++lakonik+
++lakoz+
++lakrimal+
++laktaz+
++laktik asit+ -di+
++laktoz+
++lal+ -li (degerli tas)+
++lal+
++lala+
++lalalik+ -gi+
++lalanga+
++lalapasa+
++lale+
++lale agaci+
++laleli+
++lalelik+ -gi+
++lalettayin+
++lalezar+
++laluebkem+
++lam+
++l�m (harf)+
++lama+
++lamaci+
++lamacilik+ -gi+
++lamaist+
++lamaizm+
++lamba+
++lambada+
++lambada dansi+
++lambader+
++lamba karpuzu+
++lambalama+
++lambalamak+
++lambali+
++lambalik+ -gi+
++lambasiz+
++lambri+
++lame+
++lamek�n+
++lamek�n takimi+
++lamel+
++lamelif+
++laminant+
++laminarya+
++lamise+
++lan+
++lanarkit+
++lando+
++lanet+
++lanetleme+
++lanetlemek+
++lanetlenis+
++lanetlenme+
++lanetlenmek+
++lanetli+
++langir lungur+
++langirt+
++langur+
++langust+
++lanolin+
++lanse+
++lansman+
++lantan+
++lantanit+
++lap+
++lapa+
++lapaci+
++lapacilik+ -gi+
++lapa lapa+
++lap�in+
++lap�inli+
++lapilli+
++lapina+
++lapinagiller+
++lap lap+
++lapon+
++laponca+
++laponyali+
++lappadak+
++l�pseki+
++larenjit+
++larghetto+
++largo+
++larp+
++larpadak+
++larva+
++larvacil+
++laski+
++laskine+
++laso+
++lasta+
++lasteks+
++lastik+ -gi+
++lastik agaci+
++lastik�i+
++lastik�ilik+ -gi+
++lastikli+
++lastikli lakirti+
++lastikli soz+
++lastikotin+
++lastiksiz+
++lastik tutkali+
++lase+
++lata+
++latali+
++latanya+
++latasiz+
++lateks+
++lateksli+
++latekssiz+
++laterit+
++lateritli+
++laterna+
++laternaci+
++laternacilik+ -gi+
++latif+
++latif�e+
++latife+
++latifeci+
++latifecilik+ -gi+
++latiflik+ -gi+
++latifundia+
++latifundiacilik+ -gi+
++latilokum+
++latin+
++latince+
++latin �i�egi+
++latin �i�egigiller+
++latin dilleri+
++latin halklari+
++latin harfleri+
++latinlik+ -gi+
++latin yelkeni+
++laubali+
++laubalice+
++laubalilesme+
++laubalilesmek+
++laubalilik+ -gi+
++laubaliyane+
++lav+
++lava+
++lavabo+
++lavabo bataryasi+
++lavabolu+
++lavabo muslugu+
++lavabosuz+
++lavaj+
++lavanta+
++lavantaci+
++lavantacilik+ -gi+
++lavanta �i�egi+
++lavantali+
++lavantalik+ -gi+
++lavanta mavisi+
++lavantasiz+
++lavantin+
++lavas+
++lavdanom+
++lavman+
++lavrovit+
++lav silahi+
++lavsonit+
++lavta+
++lavtaci+
++lavtacilik+ -gi+
++lav tasmasi+
++lavuk+
++lavukluk+ -gu+
++layemut+
++layenkati+
++layik+
++layikiyla+
++layiha+
++laytmotif+
++layuhti+
++laz+
++laza+
++lazanya+
++lazca+
++lazer+
++lazer isini+
++lazim+
++lazime+
++lazimlik+ -gi+
++lazlik+ -gi+
++lazut+
++l demiri+
++le+
++leb+
++lebalep+
++lebbeyk+
++lebdegmez+
++lebiderya+
++leblebi+
++leblebici+
++leblebicilik+ -gi+
++leblebi sekeri+
++le�e+
++le�ek+ -gi+
++ledun+ -nnu+
++ledun ilmi+
++lef+ -ffi+
++leffetme+
++leffetmek+ -der+
++leffunesir+ -sri+
++legal+
++legallesme+
++legallesmek+
++legallestirme+
++legallestirmek+
++legallik+ -gi+
++legato+
++legorn+
++legen legen�e+
++legen ibrik+ -gi+
++leh+
++leh (Polonya halkindan)+
++leh�e+
++leh�e (Polonya dili)+
++leh�e bilimi+
++leh�e bilimsel+
++leh�eci+
++leh�ecilik+ -gi+
++lehim+
++lehimci+
++lehimcilik+ -gi+
++lehimleme+
++lehimlemek+
++lehimlenme+
++lehimlenmek+
++lehimletme+
++lehimletmek+
++lehimli+
++lehtar+
++lejant+ -di+
++lejitimist+
++lejyon+
++lejyoner+
++leke+
++lekeci+
++lekeci kili+
++lekecilik+ -gi+
++lekeleme+
++lekelemek+
++lekelenme+
++lekelenmek+
++lekeletme+
++lekeletmek+
++lekeli+
++lekeli humma+
++lekesiz+
++lekesizlik+ -gi+
++leksik birimi+
++leksikograf+
++leksikografi+
++leksikolog+ -gu+
++leksikoloji+
++leksikolojik+
++lektor+
++lektorluk+ -gu+
++lemis+ -msi+
++lenduha+
++lenf+
++lenfa+
++lenfanjit+
++lenfatik+
++lenfatizm+
++lenfoma+
++lenfosit+
++lenger+
++lenguist+
++lenguistik+ -gi+
++leninci+
++lenincilik+ -gi+
++leninist+
++leninizm+
++lens+
++lento+
++leopar+
++lep+ -bi+
++lepiska+
++lepra+
++lerzan+
++lerze+
++lesepase+
++les+
++les�il+
++les�il akbaba+
++les kargasi+
++lesker+
++letafet+
++letarji+
++letarjik+
++let�e+
++letonca+
++letonyali+
++leva+
++levanten+
++levanti+
++levazim+
++levazimat+
++levazimat�i+
++levazimat�ilik+ -gi+
++levazim bolugu+
++levazimci+
++levazimcilik+ -gi+
++levazim sinifi+
++levendane+
++levent+ -di (asker)+
++levent+
++leventlik+ -gi+
++levha+
++levhaci+
++levhacilik+ -gi+
++levrek+ -gi+
++levrekgiller+
++levuloz+
++levye+
++ley+
++leydi+
++leylak+ -gi+
++leylaki+
++leylakli+
++leylak rengi+
++leylek+ -gi+
++leylekgagasi+
++leylekgiller+
++leylekler+
++leyleksiler+
++leyli+
++leyli meccani+
++lezar+
++lezbiyen+
++lezbiyenizm+
++lezbiyenlik+ -gi+
++leziz+
++lezyon+
++lezzet+
++lezzetlendirme+
++lezzetlendirmek+
++lezzetlenme+
++lezzetlenmek+
++lezzetli+
++lezzetlilik+ -gi+
++lezzetsiz+
++lezzetsizlik+ -gi+
++lig+
++liglama+
++liglamak+
++liglanma+
++liglanmak+
++ligli+
++likir+
++likirdama+
++likirdamak+
++likir likir+
++li+
++libas+
++libasli+
++libassiz+
++libassizlik+ -gi+
++liberal+
++liberalist+
++liberalizm+
++liberallesme+
++liberallesmek+
++liberallestirme+
++liberallestirmek+
++liberallik+ -gi+
++liberasyon+
++liberasyon listesi+
++libero+
++libido+
++libos+
++libre+
++libretto+
++libyali+
++lice+
++lider+
++liderlik+ -gi+
++liet+ -di+
++lif+
++lifleme+
++liflemek+
++liflenme+
++liflenmek+
++liflesme+
++liflesmek+
++lifli+
++lif lif+
++lift+
++lig+
++liga+
++lige �ikma+
++liger+
++lignin+
++lika+
++liken+
++liken bilimi+
++likidasyon+
++likide+
++likidite+
++likit+ -di+
++likit fon+
++likorinoz+
++likor+
++likor bardagi+
++lila rengi+
++lim+
++limaki+
++liman+
++liman cuzdani+
++limanlama+
++limanlamak+
++limanlik+
++liman reisi+
++limbo+
++lime+
++lime lime+
++limit+
++limitet+
++limitet ortaklik+ -gi+
++limitet sirket+
++limitsiz+
++limitsizlik+ -gi+
++limnoloji+
++limnolojik+
++limon+
++limon asidi+
++limonata+
++limonata bardagi+
++limonataci+
++limonatacilik+ -gi+
++limon bah�esi+
++limoncu+
++limonculuk+ -gu+
++limon esansi+
++limoni+
++limoni hava+
++limonit+
++limon kabugu+
++limonkufu+
++limonlama+
++limonlamak+
++limonlu+
++limonluk+ -gu+
++limon otu+
++limon rengi+
++limon sarisi+
++limonsu+
++limon suyu+
++limon tozu+
++limon tuzu+
++limonumsu+
++limuzin+
++lin�+ -ci+
++lineer+
++linet+
++linin+
++link+
++link hatti+
++linolyum+
++linotip+
++linyit+
++lipari+
++liparit+
++lipit+ -di+
++lipom+
++lipozom+
++lipsos+
++lir+
++lira+
++liralik+ -gi+
++liret+
++lirik+ -gi+
++lirik siir+
++lirizm+
++lisan+
++lisanih�l+ -li+
++lisanimunasip+ -bi+
++lisani+
++lisaniyat+
++lisans+
++lisansiyer+
++lisansli+
++lisans sozlesmesi+
++lisansustu egitim+
++lise+
++liseli+
++liselilik+ -gi+
++liste+
++liste basi+
++listeci+
++liste disi+
++listeleme+
++listelemek+
++listelenis+
++listelenme+
++listelenmek+
++listeletme+
++listeletmek+
++listeleyebilme+
++listeleyebilmek+
++literatur+
++litografya+
++litografyaci+
++litografyacilik+ -gi+
++litografya tasi+
++litoloji+
++litolojik+
++litosfer+
++litre+
++litrelerce+
++litrelik+
++liturya+
++lityum+
++lityumlu+
++liva+
++livar+
++livarli+
++livarli tekne+
++livata+
++liyakat+ -ti+
++liyakatli+
++liyakatlilik+ -gi+
++liyakat sahibi+
++liyakatsiz+
++liyakatsizce+
++liyakatsizlik+ -gi+
++liyan+
++lizol+ -lu+
++lizoz+
++lobelya+
++lobi+
++lobici+
++lobicilik+ -gi+
++lobut+
++loca+
++lo�a+
++loda+
++lodos+
++lodos baligi+
++lodoslama+
++lodoslamak+
++lodoslu+
++lodosluk+ -gu+
++logaritma+
++logaritma tablosu+
++logaritmik+
++logo+
++logos+
++log+
++loglama+
++loglamak+
++lohusa+
++lohusa hummasi+
++lohusalik+ -gi+
++lohusa otu+
++lohusa sekeri+
++lohusa serbeti+
++lojik+ -gi+
++lojistik+ -gi+
++lojistik dairesi+
++lojistik hizmet+
++lojman+
++lok+
++lokal+ -li+
++lokalizasyon+
++lokalize+
++lokanta+
++lokantaci+
++lokantacilik+ -gi+
++lokantali+
++lokatif+
++lokavt+
++lokma+
++lokma anahtar+
++lokma basligi+
++lokmaci+
++lokmacik+ -gi+
++lokmacilik+ -gi+
++lokma goz+
++lokma gozlu+
++lokman Hekim+
++lokman ruhu+
++lokma tatlisi+
++lokomobil+
++lokomotif+
++lokomotifli+
++lokomotifsiz+
++lokum+
++lolo+
++lololo+
++lombar+
++lomboz+
++lonca+
++loncacilik+ -gi+
++lonca ustasi+
++longa+
++longoz+
++lop+ -bu (organ par�asi)+
++lop+
++lop�uk+ -gu+
++lop et+
++lop incir+
++lop lop+
++loppadak+
++lopur+
++lopur lopur+
++lop yumurta+
++lor+
++lorentiyum+
++lort+ -du+
++lorta+
++lortlar Kamarasi+
++lostra+
++lostraci+
++lostracilik+ -gi+
++lostra salonu+
++lostromo+
++lostromoluk+ -gu+
++losyon+
++los+
++los�a+
++loslasma+
++loslasmak+
++loslastirma+
++loslastirmak+
++losluk+ -gu+
++lot+
++lota+
++lotarya+
++lotaryaci+
++lotaryacilik+ -gi+
++lotus+
++lok+
++lokleme+
++loklemek+
++lokoplast+
++lokosit+
++lokoz+
++lop+
++lop lop+
++lopur+
++lopur lopur+
++los+
++losemi+
++losemit+
++lumbago+
++lunapark+
++lup+
++lustrin+
++luti+
++lutilik+ -gi+
++lutiye+
++lutr+
++lubnanli+
++lufer+
++luferci+
++lufercilik+ -gi+
++lufergiller+
++lugat+ -ti+
++lugat�e+
++lugat�i+
++lugat�ilik+ -gi+
++lugol+ -lu+
++luk+
++luk boyasi+
++luknet+
++luks+
++luks baski+
++luks hayat+
++luks koltuk+ -gu+
++luks lambasi+
++luksluk+ -gu+
++luksmetre+
++luks mevki+
++luks tarife+
++lule+
++luleburgaz+
++luleci+
++luleci �amuru+
++lulecilik+ -gi+
++luleli+
++lule lule+
++lule tasi+
++lumen+
++lumensaat+ -ti+
++lumpen+
++lumpenlik+ -gi+
++lunet+
++lup+
++lup�u+
++lup�uluk+ -gu+
++lupletme+
++lupletmek+
++lupten+
++luterci+
++lutercilik+ -gi+
++lutesyum+
++lutfen+
++lutfetme+
++lutfetmek+ -der+
++lutfeyleme+
++lutfeylemek+
++lutuf+ -tfu+
++lutufk�r+
++lutufk�rane+
++lutufk�rlik+ -gi+
++luzucet+
++luzuci+
++luzum+
++luzumlu+
++luzumluluk+ -gu+
++luzumlu luzumsuz+
++luzumsuz+
++luzumsuz adam+
++luzumsuzca+
++luzumsuzluk+ -gu+
++luzumsuz yere+
++

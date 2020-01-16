@@ -1,0 +1,921 @@
++vaat+ -di+
++vaaz+
++vabeste+
++vacip+
++vade+
++vade bitimi+
++vadeli+
++vadeli hesap+ -b�+
++vadeli mevduat+
++vadeli sat��+
++vadesiz+
++vadesiz hesap+ -b�+
++vadesiz mevduat+
++vade sonu+
++vadetme+
++vadetmek+ -der+
++vadi+
++vadolunma+
++vadolunmak+
++vaftiz+
++vaftizhane+
++vagon+
++vagonet+
++vagotoni+
++vah+
++vaha+
++vahamet+
++vahametli+
++vahdaniyet+
++vahdet+
++vahdetiv�cut+ -du+
++vahi+
++vahilik+ -�i+
++vahim+
++vahimle�me+
++vahimle�mek+
++vahimlik+ -�i+
++vahit+
++vahiy+ -hyi+
++vah�et+
++vah�i+
++vah�ice+
++vah�icesine+
++vah�i hayvan+
++vah�ile�me+
++vah�ile�mek+
++vah�ile�tirme+
++vah�ile�tirmek+
++vah�ilik+ -�i+
++vah�i orman+
++vah�iyane+
++vah vah+
++vahvahlanma+
++vahvahlanmak+
++vahyolunma+
++vahyolunmak+
++vaiz+
++vaizlik+ -�i+
++vajina+
++vaka+
++vakan�vis+
++vakan�vislik+ -�i+
++vakar+
++vakarl�+
++vakarl�l�k+ -��+
++vakars�z+
++vakars�zl�k+ -��+
++vakayiname+
++vaketa+
++vakfe+
++vakfedili�+
++vakfedilme+
++vakfedilmek+
++vakfedi�+
++vakfetme+
++vakfetmek+ -der+
++vakf�kebir+
++vakfiye+
++vak�a+
++v�k��+
++vak�f+ -kf�+
++v�k�f (vakfeden; bilen)+
++vak�f arazisi+
++v�k�fl�k+ -��+
++vak�f mal�+
++vak�fname+
++vak�f senedi+
++vak�f topra��+
++vaki+
++vakit+ -kti+
++vakit�e+
++vakit kaybetmeden+
++vakitli+
++vakitli vakitsiz+
++vakitsiz+
++vakitsizlik+ -�i+
++vakit vakit+
++vaklama+
++vaklamak+
++vaks+
++vakta ki+
++vaktikerahet+
++vaktinde+
++vaktiyle+
++vaktizaman�nda+
++vakum+
++vakumlama+
++vakumlamak+
++vakumlanma+
++vakumlanmak+
++vakumlu+
++vakur+
++vakurluk+ -�u+
++vakvak (�rdek)+
++vak vak+
++vakvaklama+
++vakvaklamak+
++vale+
++valf+ -fi+
++vali+
++valide+
++validelik+ -�i+
++valide sultan+
++valilik+ -�i+
++valiz+
++vallaha+
++vallahi+
++vallahi billahi+
++vallahi tallahi+
++val�r+
++vals+
++val�asyon+
++vamp+
++vampir+
++van+
++vana+
++vanadyum+
++vandal+
++vandalizm+
++vandall�k+ -��+
++vand�z+
++vanilya+
++van kedisi+
++vanl�+
++vanl�l�k+ -��+
++vantilat�r+
++vantilat�r kay���+
++vantrilok+
++vantuz+
++vapur+
++vapurcu+
++vapurculuk+ -�u+
++vapurduman�+
++var+
++varabilme+
++varabilmek+
++varagele+
++varagele bombard�man�+
++varagele botu+
++varagele halat�+
++varagele kay���+
++varagelme+
++varagelmek+
++varak+ -��+
++varaka+
++varak��+
++varak��l�k+ -��+
++varaklama+
++varaklamak+
++varaklanma+
++varaklanmak+
++varakl�+
++varakpare+
++varan+
++vara yo�a+
++varda+
++vardaband�ra+
++vardac�+
++vardac�l�k+ -��+
++vardakosta+
++vardela+
++vard�rabilme+
++vard�rabilmek+
++vard�rma+
++vard�rmak+
++vardiya+
++vardiyac�+
++vardiyac�l�k+ -��+
++vareste+
++vargel+
++vargel tezg�h�+
++varg�+
++var g�c�yle+
++var h�z�yla+
++var�labilme+
++var�labilmek+
++var�l��+
++var�lma+
++var�lmak+
++var��+
++var�� �izgisi+
++var� yo�u+
++varidat+
++varidat��+
++varide+
++varil+
++varis+
++v�ris (miras��)+
++varis �orab�+
++varisli+
++v�risli (miras��s� olan)+
++v�rislik+ -�i+
++varissiz+
++v�rissiz (miras��s� olmayan)+
++varit+ -di+
++variyet+
++variyetli+
++variyetsiz+
++variyetsizlik+ -�i+
++var kuvvetiyle+
++varl�k+ -��+
++varl�k bilimci+
++varl�k bilimi+
++varl�k birli�i+
++varl�k kart�+
++varl�kl�+
++varl�kl�l�k+ -��+
++varl�k nedeni+
++varl�k sebebi+
++varl�ks�z+
++varma+
++varmak+ -�r+
++varolu�+
++varolu��u+
++varolu��uluk+ -�u+
++varolu�sal+
++varo�+
++varsa��+
++varsan�+
++varsayabilme+
++varsayabilmek+
++varsay�lma+
++varsay�lmak+
++varsay�m+
++varsay�ml�+
++varsay�msal+
++varsay��+
++varsayma+
++varsaymak+
++vars�l+
++vars�l erki+
++vars�lla�ma+
++vars�lla�mak+
++vars�lla�t�rma+
++vars�lla�t�rmak+
++vars�ll�k+ -��+
++varta+
++varto+
++varyant+
++varyasyon+
++varyemez+
++varyemezlik+ -�i+
++varyete+
++varyeteci+
++varyetecilik+ -�i+
++var y�l�+
++varyos+
++vasat+
++vasati+
++vasatl�k+ -��+
++vasektomi+
++vas�f+ -sf�+
++vas�fland�r�lma+
++vas�fland�r�lmak+
++vas�fland�rma+
++vas�fland�rmak+
++vas�flanma+
++vas�flanmak+
++vas�fl�+
++vas�fl� i��i+
++vas�fl�l�k+ -��+
++vas�fs�z+
++vas�fs�z i��i+
++vas�fs�zl�k+ -��+
++vas�l+
++vas�ta+
++vas�ta h�li+
++vas�tal�+
++vas�tal�k+ -��+
++vas�tal� vergi+
++vas�tas�yla+
++vas�tas�z+
++vas�tas�zl�k+ -��+
++vas�tas�z vergi+
++vasi+
++v�si (geni�)+
++vasilik+ -�i+
++vasistas+
++vasiyet+
++vasiyetname+
++va�ak+ -��+
++vat+
++vatan+
++vatan borcu+
++vatanda�+
++vatanda�l�k+ -��+
++vatan haini+
++vatan hainli�i+
++vatani+
++vatani g�rev+
++vatani vazife+
++vatanla�t�rma+
++vatanla�t�rmak+
++vatanperver+
++vatanperverlik+ -�i+
++vatansever+
++vatanseverlik+ -�i+
++vatans�z+
++vatans�zl�k+ -��+
++vatka+
++vatl�k+
++vatman+
++vatoz+
++vatsaat+ -ti+
++vatvat+
++vaveyla+
++vay+
++vaybabamc�+
++vaybabamc�l�k+ -��+
++vayvayc�+
++vayvayc�l�k+ -��+
++vaz+
++vazedili�+
++vazedilme+
++vazedilmek+
++vazedi�+
++vazelin+
++vazelinleme+
++vazelinlemek+
++vazelinli+
++vazelinsiz+
++vazetme+
++vazetmek+ -der+
++vazge�ebilme+
++vazge�ebilmek+
++vazge�ilme+
++vazge�ilmek+
++vazge�irebilme+
++vazge�irebilmek+
++vazge�irme+
++vazge�irmek+
++vazge�i�+
++vazge�me+
++vazge�mek+
++vazgelme+
++vazgelmek+
++vaz�h+
++vaz�hl�k+ -��+
++vaz��kanun+
++vazife+
++vazife kurban�+
++vazifelendirilme+
++vazifelendirilmek+
++vazifelendirme+
++vazifelendirmek+
++vazifeli+
++vazifelilik+ -�i+
++vazifesiz+
++vazifesizlik+ -�i+
++vazife �ehidi+
++vazife�inas+
++vazife�inasl�k+ -��+
++vaziyet+
++vazo+
++vazoluk+ -�u+
++vazolunma+
++vazolunmak+
++ve+
++veba+
++vebal+ -li+
++vebal�+
++ve benzeri+
++veca+
++vecibe+
++vecih+ -�hi+
++veciz+
++vecize+
++vecizlik+ -�i+
++vect+ -cdi+
++vectli+
++ve�he+
++ve�hi�ebeh+
++veda+
++vedala�abilme+
++vedala�abilmek+
++vedala�ma+
++vedala�mak+
++vedia+
++ve di�erleri+
++vefa+
++vefak�r+
++vefak�rl�k+ -��+
++vefal�+
++vefal�l�k+ -��+
++vefas�z+
++vefas�zca+
++vefas�zl�k+ -��+
++vefat+
++vefat ilm�haberi+
++vehim+ -hmi+
++vehimli+
++vehleten+
++vehmetme+
++vehmetmek+ -der+
++vehmettirme+
++vehmettirmek+
++vejetalin+
++vejetalizm+
++vejetarizm+
++vejetaryen+
++vejetaryenlik+ -�i+
++vejetasyon+
++vek�let+
++vek�leten+
++vek�leten atama+
++vek�leten atamak+
++vek�leten atanma+
++vek�leten atanmak+
++vek�letname+
++vek�let �creti+
++vekil+
++vekilhar�+ -c�+
++vekilhar�l�k+ -��+
++vekillik+ -�i+
++vekil v�kela+
++veksilloloji+
++vekt�r+
++veladet+
++velayet+
++velayetname+
++veledizina+
++veledrom+
++velense+
++velespit+
++velet+ -di+
++velev ki+
++velhas�l+
++velhas�l�kelam+
++veli+
++veliaht+ -d�+
++veliahtl�k+ -��+
++velilik+ -�i+
++velinimet+
++veliyullah+
++velur+
++velut+
++velvele+
++velveleci+
++velvelecilik+ -�i+
++vena+
++venezuelal�+
++ven�s+
++ven�s�ar���+
++veranda+
++veraset+
++veraset ilam�+
++veraset ve intikal vergisi+
++verdi+
++verdirme+
++verdirmek+
++vere+
++verebilme+
++verebilmek+
++verecek+ -�i+
++verecekli+
++verem+
++veremli+
++verese+
++veresiye+
++veresiyeci+
++veresiyecilik+ -�i+
++verev+
++verevine+
++vergi+
++vergi beyannamesi+
++vergici+
++vergicilik+ -�i+
++vergi dairesi+
++vergi dilimi+
++vergi iadesi+
++vergi ka�a��+
++vergi ka�ak��l���+
++vergi ka�ak��s�+
++vergileme+
++vergilemek+
++vergilendirilme+
++vergilendirilmek+
++vergilendirme+
++vergilendirmek+
++vergili+
++vergi matrah�+
++vergi muafiyeti+
++vergi m�kellefi+
++vergi oran�+
++vergi rekortmeni+
++vergisiz+
++vergi y�k�ml�s�+
++veri+
++veri bankas�+
++verici+
++vericilik+ -�i+
++veri dosyas�+
++veri i�lem+
++verilebilme+
++verilebilmek+
++verile emri+
++verili�+
++verilme+
++verilmek+
++verim+
++verimk�r+
++verimk�rl�k+ -��+
++verimli+
++verimlilik+ -�i+
++verimsiz+
++verimsizle�me+
++verimsizle�mek+
++verimsizle�tirme+
++verimsizle�tirmek+
++verimsizlik+ -�i+
++verinti+
++veri ortam�+
++veri�+
++veri�tirme+
++veri�tirmek+
++verit+ -di+
++veri taban�+
++veri toplama+
++veriverme+
++verivermek+
++verka�+
++verme+
++vermek+ -ir+
++vermut+
++vernik+ -�i+
++vernikleme+
++verniklemek+
++verniklenme+
++verniklenmek+
++vernikli+
++verniksiz+
++verniye+
++veronika+
++versiyon+
++vertigo+
++veryans�n+
++vesaik+
++vesair+
++vesaire+
++vesait+
++vesaitinakliye+
++vesayet+
++vesika+
++vesikac�+
++vesikac�l�k+ -��+
++vesika foto�raf�+
++vesikal�+
++vesikal�k+ -��+
++vesikal�k foto�raf+
++vesikal�k resim+ -smi+
++vesikas�z+
++vesile+
++vesselam+
++vestiyer+
++vestiyerci+
++vestiyercilik+ -�i+
++veston+
++vesvese+
++vesveseci+
++vesvesecilik+ -�i+
++vesveseli+
++vesveselilik+ -�i+
++vesvesesiz+
++vesvesesizlik+ -�i+
++veteriner+
++veteriner hekim+
++veteriner hekimli�i+
++veterinerlik+ -�i+
++vetire+
++veto+
++veto hakk�+
++veya+
++veyahut+
++vezaret+
++vezik�l+
++vezin+ -zni+
++vezinli+
++vezinsiz+
++vezir+
++veziriazam+
++vezirk�pr�+
++vezirlik+ -�i+
++vezirparma��+
++vezir v�zera+
++vezne+
++vezneci+
++veznecilik+ -�i+
++veznedar+
++veznedarl�k+ -��+
++v�c�k+
++v�c�klama+
++v�c�klamak+
++v�c�kl�k+ -��+
++v�c�k v�c�k+
++v�c�rdama+
++v�c�rdamak+
++v�c�rda�ma+
++v�c�rda�mak+
++v�c�r v�c�r+
++v�d� v�d�+
++v�k v�k+
++v�n+
++v�n�lt�+
++v�nlama+
++v�nlamak+
++v�nlay��+
++v�r�ldama+
++v�r�ldamak+
++v�r�ldanma+
++v�r�ldanmak+
++v�r�lt�+
++v�rlama+
++v�rlamak+
++v�rt z�rt+
++v�r v�r+
++v�rv�rc�+
++v�rv�rc�l�k+ -��+
++v�z+
++v�z�ldama+
++v�z�ldamak+
++v�z�ldanma+
++v�z�ldanmak+
++v�z�lt�+
++v�z�lt�l�+
++v�z�lt�s�z+
++v�z�r v�z�r+
++v�zlama+
++v�zlamak+
++v�z v�z+
++v�zv�z b�ce�i+
++vibrasyon+
++vibrasyonlu+
++vibrasyon tecridi+
++vibrat�r+
++vibriyo+
++vicahen+
++vicahi+
++vicdan+
++vicdan azab�+
++vicdanen+
++vicdani+
++vicdanl�+
++vicdanl�l�k+ -��+
++vicdans�z+
++vicdans�zca+
++vicdans�zcas�na+
++vicdans�zl�k+ -��+
++vida+
++vidala+
++vidalama+
++vidalamak+
++vidalanma+
++vidalanmak+
++vidal�+
++vidanj�r+
++vidas�z+
++video+
++videobant+ -d�+
++videocu+
++videoculuk+ -�u+
++videokaset+
++videoteyp+ -bi+
++vido+
++vidolu+
++vidosuz+
++vietnaml�+
++vigla+
++viglac�+
++vikaye+
++vikont+
++vikontes+
++viladi+
++vilayet+
++vilayet binas�+
++villa+
++vin�+ -ci+
++vin�li+
++vinter+
++vinterizasyon+
++vinterize+
++vinyet+
++vira+
++viraj+
++virajl�+
++virajs�z+
++viral+
++viran+
++virane+
++viranelik+ -�i+
++viranla�ma+
++viranla�mak+
++viranl�k+ -��+
++viran�ehir+
++virdizeban+
++virg�l+
++virman+
++virolog+ -�u+
++viroloji+
++virolojik+
++virt+ -di+
++virt��z+
++virt��zl�k+ -��+
++vir�s+
++vir�tik+
++visal+ -li+
++visamiral+ -li+
++viski+
++viski barda��+
++viskons�l+
++viskoz+
++viskozite+
++viskozite de�eri+
++vi�nap+ -b�+
++vi�ne+
++vi�ne��r���+
++vi�ne ho�af�+
++vi�ne kompostosu+
++vi�neli ekmek+ -�i+
++vi�nelik+ -�i+
++vi�ne re�eli+
++vi�ne suyu+
++vi�ne �erbeti+
++vi�ne �urubu+
++vitamin+
++vitaminli+
++vitaminsiz+
++vitaminsizlik+ -�i+
++vitell�s+
++vites+
++vites di�lisi+
++vites kolu+
++vites kutusu+
++vitesli+
++vitir+ -tri+
++vitir namaz�+
++vitray+
++vitrifiye+
++vitrin+
++vitrinci+
++vitrincilik+ -�i+
++vitrinleme+
++vitrinlemek+
++viya+
++viyad�k+ -��+
++viyak+
++viyaklama+
++viyaklamak+
++viyak viyak+
++viyol+ -l�+
++viyola+
++viyolac�+
++viyolac�l�k+ -��+
++viyolo+
++viyolonist+
++viyolonsel+
++viyolonselci+
++viyolonselist+
++vize+
++vize (il�e)+
++vize s�nav�+
++vizite+
++viziyer+
++vizon+
++vizonet+
++vizon k�rk+
++viz�r+
++vizyon+
++vizyon sahibi+
++vodvil+
++vokab�ler+
++vokal+ -li+
++vokalist+
++vokal m�zik+ -�i+
++vokal uyumu+
++volan+
++volanl�+
++vole+
++voleybol+
++voleybolcu+
++voleybolculuk+ -�u+
++volfram+
++voli+
++voli a��+
++voli yeri+
++volkan+
++volkanik+
++volontarist+
++volontarizm+
++volt+
++volta+
++voltaj+
++voltajl�+
++voltametre+
++voltamper+
++voltmetre+
++vombat+
++vonoz+
++votka+
++voyvo+
++voyvoda+
++voyvodal�k+ -��+
++vualet+
++vuku+
++vukuat+
++vukuf+
++vukuflu+
++vukufsuz+
++vukufsuzluk+ -�u+
++vulgarize+
++vulva+
++vurabilme+
++vurabilmek+
++vura�+ -c�+
++vurayazma+
++vurayazmak+
++vurdulu k�rd�l�+
++vurdumduymaz+
++vurdumduymazl�k+ -��+
++vurdurabilme+
++vurdurabilmek+
++vurdurma+
++vurdurmak+
++vurdurtma+
++vurdurtmak+
++vurgu+
++vurgulama+
++vurgulamak+
++vurgulanabilme+
++vurgulanabilmek+
++vurgulan��+
++vurgulanma+
++vurgulanmak+
++vurgulatma+
++vurgulatmak+
++vurgulayabilme+
++vurgulayabilmek+
++vurgulay��+
++vurgulu+
++vurgulu hece+
++vurgun+
++vurguncu+
++vurgunculuk+ -�u+
++vurgunluk+ -�u+
++vurgu oyun+
++vurgusuz+
++vurgusuz hece+
++vurgusuzluk+ -�u+
++vurgu uzunlu�u+
++vurka�+
++vurma+
++vurmak+ -ur+
++vurmal�+
++vurmal� �alg�lar+
++vurmal� sazlar+
++vurtut+
++vuru+
++vurucu+
++vurucu g��+ -c�+
++vuruculuk+ -�u+
++vurucu tim+
++vuruk+
++vurulabilme+
++vurulabilmek+
++vurulma+
++vurulmak+
++vurulu�+
++vuruluverme+
++vuruluvermek+
++vurunma+
++vurunmak+
++vuruntu+
++vuruntulu+
++vuruntusuz+
++vuru�+
++vuru�abilme+
++vuru�abilmek+
++vuru�kan+
++vuru�kanl�k+ -��+
++vuru�ma+
++vuru�mak+
++vuru�turma+
++vuru�turmak+
++vuruverme+
++vuruvermek+
++vuslat+
++vusul+ -l�+
++vuzuh+
++vuzuhsuz+
++vuzuhsuzluk+ -�u+
++v�cut+ -du+
++v�cut�a+
++v�cut dili+
++v�cut �s�s�+
++v�cutlu+
++v�cut s�cakl���+
++v�kela+
++v�rut+ -du+
++v�sat+ -ti+
++v�zera+
++v yaka+
++
