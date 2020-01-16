@@ -1,6 +1,4 @@
-<div style="text-align:center;">
-<img src="https://i.ibb.co/Pzxkbkb/logo-2-oyun.jpg" width="30%" alt="altin-kelime" border="0">
-</div>
+
 
 ## Kelime Balonu
 
@@ -19,7 +17,7 @@ Players need to cope with the time while they force their word knowledge. You ca
 
 ##### Pause Screen
 
-<img src="https://ibb.co/748KKJL" alt="pause screen" border="0" />
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/YZYhh7w/pause.png" alt="pause" border="0"></a>
 
 ##### GamePlay:
 
