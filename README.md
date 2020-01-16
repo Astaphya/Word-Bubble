@@ -13,6 +13,8 @@ Players need to cope with the time while they force their word knowledge. You ca
 
 ## Screenshots
 
+##### Login:
+
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/GHjgPLs/giri.png" alt="giri" border="0"></a>
 
 ##### Pause Screen
@@ -21,7 +23,6 @@ Players need to cope with the time while they force their word knowledge. You ca
 
 ##### GamePlay:
 
-<img src="https://ibb.co/DRmcRWy" alt="gameplay.png" border="0" />
-
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/crRfr3H/gameplay.png" alt="gameplay" border="0"></a>
 
 
