@@ -13,7 +13,7 @@ Players need to cope with the time while they force their word knowledge. You ca
 
 ## Screenshots
 
-<img src="https://ibb.co/MBLqN48" alt="giriş" border="0" />
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/GHjgPLs/giri.png" alt="giri" border="0"></a>
 
 ##### Pause Screen
 
