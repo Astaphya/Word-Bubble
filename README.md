@@ -2,7 +2,7 @@
 
 ## Kelime Balonu
 
-Kelime Balonu is a mobile word game along with Unity for all devices. The objective in the game is to reach the target score for the given time within his level and move on to the next level.
+Word Bubble is a mobile word game developed with Unity for all devices. The objective in the game is to reach the target score for the given time within his level and move on to the next level.
 Players need to cope with the time while they force their word knowledge. You can test your vocabulary as you compete against time.
 #### Features
 
