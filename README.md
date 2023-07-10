@@ -20,6 +20,7 @@ Players need to cope with the time while they force their word knowledge. You ca
 ##### GamePlay:
 
 <a href="https://ibb.co/DrCpBf0"><img src="https://i.ibb.co/FHwVQ4R/1.png" alt="1" border="0"></a>
+
 <a href="https://ibb.co/Q8qnpJ0"><img src="https://i.ibb.co/wJbCBdt/3.png" alt="3" border="0"></a>
 
 ##### Gameplay link:
