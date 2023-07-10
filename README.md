@@ -13,16 +13,17 @@ Players need to cope with the time while they force their word knowledge. You ca
 
 ## Screenshots
 
-##### Login:
+#### StartScene
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/GHjgPLs/giri.png" alt="giri" border="0"></a>
-
-##### Pause Screen
-
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/YZYhh7w/pause.png" alt="pause" border="0"></a>
+<a href="https://ibb.co/s6ttkwj"><img src="https://i.ibb.co/7Rbb8Wv/start-scene.png" alt="start-scene" border="0"></a>
 
 ##### GamePlay:
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/crRfr3H/gameplay.png" alt="gameplay" border="0"></a>
+<a href="https://ibb.co/DrCpBf0"><img src="https://i.ibb.co/FHwVQ4R/1.png" alt="1" border="0"></a>
+<a href="https://ibb.co/Q8qnpJ0"><img src="https://i.ibb.co/wJbCBdt/3.png" alt="3" border="0"></a>
+
+##### Gameplay link:
+https://youtu.be/9mtecogg9OM
+
 
 
