@@ -6,7 +6,6 @@ Word Bubble is a mobile word game developed with Unity for all devices. The obje
 Players need to cope with the time while they force their word knowledge. You can test your vocabulary as you compete against time.
 #### Features
 
-- **API**:  Api queries the player's word.
 - **UI/UX**:  Responsive and user-friendly interface.
 - **Platform**: Developed with Unity 2018.4.4f1
 
